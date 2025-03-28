@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Account Management",
+        "description": "These questions relate to the creation, modification, deletion, and general management of user accounts, including password/PIN resets, account type changes, and troubleshooting signup or access issues.",
+        "count": 6119
+    },
+    {
+        "name": "Orders and Purchases",
+        "description": "These questions relate to making, modifying, canceling, tracking, and inquiring about orders and purchases, including items, payments, shipping addresses, and associated fees.",
+        "count": 5289
+    },
+    {
+        "name": "Shipping and Delivery",
+        "description": "These questions relate to managing shipping and delivery addresses, including setting up, updating, correcting, and troubleshooting issues with address information, as well as inquiries about available shipping and delivery options and methods.",
+        "count": 1863
+    },
+    {
+        "name": "Payments and Billing",
+        "description": "This cluster includes questions related to payment issues, accepted payment methods, billing inquiries, invoice requests, refunds, reimbursements, compensations, and cancellation fees.",
+        "count": 4828
+    },
+    {
+        "name": "Refunds and Compensation",
+        "description": "These questions relate to inquiries about refunds, rebates, reimbursements, restitutions, and compensation, including requests, status updates, eligibility, and the processes involved in obtaining them.",
+        "count": 1987
+    },
+    {
+        "name": "Feedback and Complaints",
+        "description": "These questions relate to providing feedback, writing reviews, submitting complaints, and generally expressing opinions about products, services, or companies.",
+        "count": 1806
+    },
+    {
+        "name": "Customer Support and Contact",
+        "description": "These questions relate to contacting customer support, speaking with agents or representatives, providing feedback, and filing complaints or claims.",
+        "count": 1567
+    },
+    {
+        "name": "Address Management",
+        "description": "These questions relate to users needing help with correcting, updating, changing, setting up, or troubleshooting issues with their shipping or delivery addresses.",
+        "count": 304
+    },
+    {
+        "name": "Newsletters and Subscriptions",
+        "description": "These questions are about subscribing to, accessing, or unsubscribing from a newsletter.",
+        "count": 642
+    },
+    {
+        "name": "Payment Issues",
+        "description": "These questions relate to users reporting and seeking solutions for errors, problems, or troubles encountered during payment processes.",
+        "count": 152
+    },
+    {
+        "name": "Penalties and Fees",
+        "description": "This cluster focuses on questions about fees and penalties associated with early termination, withdrawal, or breaking contracts, particularly for services like gold accounts.",
+        "count": 167
+    }
+]
